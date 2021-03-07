@@ -11,9 +11,6 @@ enum OPTIONS{
 };
 
 
-
-
-
 int main(){
 
     string myStr;
